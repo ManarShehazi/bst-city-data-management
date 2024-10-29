@@ -54,7 +54,7 @@ Upon running the application, you can perform the following operations:
 
 ## Team Members
 
-- **Batoul Kassem**
+- **Batool Kassem**
 - **Nisreen Hamze**
 - **Manar Shehazi**
 
