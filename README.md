@@ -51,5 +51,41 @@ Upon running the application, you can perform the following operations:
 - **Search for a City**: Retrieve information about a specific city.
 - **Update Dataset**: Modify existing city data.
 
-## Project Structure
+
+## Team Members
+
+- **Your Name**
+- **Teammate 1**
+- **Teammate 2**
+- *(Add more as needed)*
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. **Fork the Repository**
+2. **Create a Feature Branch**:
+    ```bash
+    git checkout -b feature/YourFeature
+    ```
+3. **Commit Your Changes**:
+    ```bash
+    git commit -m "Add YourFeature"
+    ```
+4. **Push to the Branch**:
+    ```bash
+    git push origin feature/YourFeature
+    ```
+5. **Open a Pull Request**
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- **Lebanese University** for providing the platform and resources.
+- **CSV Dataset Providers** for the comprehensive city data.
+
+
 
