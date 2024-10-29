@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659251340 source:c:\users\win10\onedrive\desktop\projecti2206ver2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"BTProject.h"
+
+1659251443 c:\users\win10\onedrive\desktop\projecti2206ver2\btproject.h
+
