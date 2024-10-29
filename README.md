@@ -1,8 +1,6 @@
 # bst-city-data-management
 # Binary Search Tree Implementation for City Data Management
 
-![Project Structure](path/to/screenshot.png)
-
 ## Overview
 
 This project involves the implementation of a balanced **Binary Search Tree (BST)** in C for managing a global city dataset. Developed in association with the Lebanese University from April 2021 to June 2021, the application efficiently handles large datasets by optimizing key operations to enhance data query speeds.
